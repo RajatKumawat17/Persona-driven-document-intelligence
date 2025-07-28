@@ -1,0 +1,19 @@
+# Core ML and NLP libraries
+sentence-transformers
+torch
+numpy
+scikit-learn
+
+# PDF processing
+PyMuPDF
+
+# Web framework
+streamlit
+
+# Utilities
+tqdm
+python-dateutil
+regex
+
+# Development and testing
+pytest
